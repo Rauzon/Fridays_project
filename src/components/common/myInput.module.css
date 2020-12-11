@@ -1,0 +1,10 @@
+.text_field{
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.text_field input{
+    width: 100px;
+    height: 1px;
+    padding: 16px 20px;
+}
